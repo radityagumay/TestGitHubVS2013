@@ -12,6 +12,7 @@ namespace SolGitHubTest
         {
             System.Console.WriteLine("This is my First GitHub Project");
 
+            System.Console.WriteLine("This is my First Statement");
         }
     }
 }
